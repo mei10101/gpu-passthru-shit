@@ -10,5 +10,9 @@ Make sure u have these enabled
 
 And then clone the repository by typing:
 ```
-git clone https://github.com/mei10101/gpu-passthru-shit && cd gpu-passthru-shit
+git clone https://github.com/mei10101/gpu-passthru-shit && cd gpu-passthru-shit/script
+```
+also make the script executible by 
+```
+chmod +x arch_help.sh
 ```
