@@ -57,7 +57,7 @@ cp new_grub /etc/default/grub
 
 # Install required packages
 
-pacman -S vim qemu virt-manager ovmf dnsmasq ebtables #iptables
+pacman -S vim qemu virt-manager ovmf dnsmasq ebtables qemu-audio-pa #iptables and QEMU audio
 
 #Checking for TPM
 
